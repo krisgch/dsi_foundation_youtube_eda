@@ -22,4 +22,17 @@ In order to grow my subscribers and views, I asked the following questions and f
 - Is it better to post on weekdays or weekends?
 
 
-inspired by https://github.com/thu-vu92/youtube-api-analysis
+API tutorial https://github.com/thu-vu92/youtube-api-analysis
+
+Rearrange to this format
+1. Title and Description
+2. API reference
+3. Authors
+4. Acknowledgments
+5. Contributing
+6. Demo
+7. License
+8. Logo
+
+use readme.so
+
