@@ -14,6 +14,14 @@
 ### Project Overview
 This project is part of TDA's DSI Python Foundation Capstone Project, as a key requirement to complete the course. Combining my passion of data analysis and dog training, I've chosen to analyse 'dog training' YouTube channels in order to identify key insights and good practices done by other channels. The ultimate goal of this project is to grow my own 'dog training' YouTube channel to become an educational platform that are more accessible to Thai people, which will eventually lower the number of unethical breeders/trainers in Thailand.
 
+__Here are the 5 strategies that we can follow, to grow our 'dog training' youtube channel:__
+1. __Contents that are more generic__ will relate to more audience, potentially increasing the number of subscribers and ultimately increases the number of views per videos.
+2. __Video duration should be kept around 10 minutes__, as long videos tend to be too intimidating for people to watch, and short videos could easily be disregarded as not enough content to worth watching
+3. __Writing informative title helps audience grasp key concepts__ of what this video will provide them, and quickly decide whether or not they will want to watch the video.
+4. __Publish about 1 video per week__ as this will help maintain an audience that we've built
+5. __It is better to post on weekends__ than on weekdays, so I must schedule my publishing day to weekends
+
+
 ### Problem Statement
 - Thailand is a country with less dog training knowledge in comparison to Europe or even our neighbor Singapore
 - One of the main reason is the lack in available educational resources which has stalled developments of both the training skills of trainers and the knowledge of the people
@@ -50,7 +58,6 @@ Project is created with:
 - WordCloud (wordcloud) 1.8.2.2
 
 ### Project Scope
-![project_pipeline.png](attachment:project_pipeline.png)
-
+![alt text](https://github.com/krisgch/youtube_api_eda/blob/993a66bde6d98b358784be6b5598955c4dd4a31a/project_pipeline.png)
 ### Source
 API tutorial https://github.com/thu-vu92/youtube-api-analysis
