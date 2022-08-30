@@ -9,6 +9,7 @@
 * [Hypotheses](#hypotheses)
 * [Technologies](#technologies)
 * [Project Scope](#project-scope)
+* [Future Investigation](#future-investigation)
 * [Source](#source)
 ---
 ### Project Overview
@@ -59,5 +60,11 @@ Project is created with:
 
 ### Project Scope
 ![alt text](https://github.com/krisgch/youtube_api_eda/blob/993a66bde6d98b358784be6b5598955c4dd4a31a/project_pipeline.png)
+
+### Future Investigation
+- __Thumbnail__ is another interesting area to investigate, if there is a way to identify custom uploaded thumbnail vs selected frame of uploaded video then that's worth exploring
+- Explore the __timeline__ of each channel to identify how each grow their own channel (potentially identifying spikes in subscribers and viewers)
+- Compare __contents__ in each video vs performance and comment feedback (categorize each video into specific topics from title keywords)
+
 ### Source
 API tutorial https://github.com/thu-vu92/youtube-api-analysis
